@@ -1,0 +1,7 @@
+D:\3sem\oop\lab1\zad4\bin\Debug\zad4.exe.config
+D:\3sem\oop\lab1\zad4\bin\Debug\zad4.exe
+D:\3sem\oop\lab1\zad4\bin\Debug\zad4.pdb
+D:\3sem\oop\lab1\zad4\obj\Debug\zad4.csproj.AssemblyReference.cache
+D:\3sem\oop\lab1\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
+D:\3sem\oop\lab1\zad4\obj\Debug\zad4.exe
+D:\3sem\oop\lab1\zad4\obj\Debug\zad4.pdb
